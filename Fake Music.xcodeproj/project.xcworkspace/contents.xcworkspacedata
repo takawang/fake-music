@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/taka/workspace/fake-music/Fake Music.xcodeproj">
    </FileRef>
 </Workspace>

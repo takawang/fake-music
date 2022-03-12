@@ -34,6 +34,7 @@
 		3BBFA2EB27DCCF140090FD30 /* q5.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BBFA2DF27DCCF130090FD30 /* q5.png */; };
 		3BBFA2EC27DCCF140090FD30 /* q6.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BBFA2E027DCCF140090FD30 /* q6.png */; };
 		3BBFA2ED27DCCF140090FD30 /* q10.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BBFA2E127DCCF140090FD30 /* q10.png */; };
+		3BBFA31027DCF0A40090FD30 /* a1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BBFA30F27DCF0A30090FD30 /* a1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,7 @@
 		3BBFA2DF27DCCF130090FD30 /* q5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = q5.png; sourceTree = "<group>"; };
 		3BBFA2E027DCCF140090FD30 /* q6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = q6.png; sourceTree = "<group>"; };
 		3BBFA2E127DCCF140090FD30 /* q10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = q10.png; sourceTree = "<group>"; };
+		3BBFA30F27DCF0A30090FD30 /* a1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		3BBFA2AD27DC8E190090FD30 /* fake-music */ = {
 			isa = PBXGroup;
 			children = (
+				3BBFA30E27DCF08B0090FD30 /* ic_iu_essentials */,
 				3BBFA2D527DCCEAA0090FD30 /* ic_recent */,
 				3BBFA2D427DC9E620090FD30 /* ic_recommend */,
 				3BBFA2AE27DC8E190090FD30 /* AppDelegate.swift */,
@@ -144,6 +147,14 @@
 				3BBFA2DD27DCCF130090FD30 /* q12.png */,
 			);
 			path = ic_recent;
+			sourceTree = "<group>";
+		};
+		3BBFA30E27DCF08B0090FD30 /* ic_iu_essentials */ = {
+			isa = PBXGroup;
+			children = (
+				3BBFA30F27DCF0A30090FD30 /* a1.png */,
+			);
+			path = ic_iu_essentials;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -209,6 +220,7 @@
 				3BBFA2D327DC9E5A0090FD30 /* r1.png in Resources */,
 				3BBFA2EA27DCCF140090FD30 /* q4.png in Resources */,
 				3BBFA2EC27DCCF140090FD30 /* q6.png in Resources */,
+				3BBFA31027DCF0A40090FD30 /* a1.png in Resources */,
 				3BBFA2E827DCCF140090FD30 /* q11.png in Resources */,
 				3BBFA2CF27DC9E5A0090FD30 /* r5.png in Resources */,
 				3BBFA2E627DCCF140090FD30 /* q2.png in Resources */,
